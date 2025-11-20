@@ -13,7 +13,7 @@ export default function AppLayout() {
           <nav className="flex gap-6 text-sm">
             <Link className="hover:text-emerald-400" to="/">Quizzes</Link>
             <Link className="hover:text-emerald-400" to="/create">Create</Link>
-            <Link className="hover:text-emerald-400" to="/categories">Create</Link>
+            <Link className="hover:text-emerald-400" to="/categories">Categories</Link>
 
           </nav>
         </div>
