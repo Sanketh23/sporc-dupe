@@ -1,5 +1,3 @@
-import React from "react";
-
 interface CircleTimerProps {
     timeLeft: number;
     totalTime: number;
